@@ -34,37 +34,37 @@ Ce projet est un portfolio personnel construit avec React et Vite. Il permet de 
   }
 }
 ```
-##Installation
-###Clonez ce dépôt sur votre machine locale :
+## Installation
+### Clonez ce dépôt sur votre machine locale :
 
 ```
 git clone https://github.com/votre_nom_utilisateur/react-portfolio.git
 ```
 
-###Accédez au répertoire du projet :
+### Accédez au répertoire du projet :
 ```
 cd react-portfolio
 ```
-###Installez les dépendances :
+### Installez les dépendances :
 
 ```
 npm install
 ```
 
-##Scripts
-###dev : Démarre le serveur de développement.
+## Scripts
+### dev : Démarre le serveur de développement.
 
 ```
 npm run dev
 ```
 
-###build : Génère la version de production du site.
+### build : Génère la version de production du site.
 
 ```
 npm run build
 ```
 
-##Modification des données
+## Modification des données
 
 Les données affichées dans le portfolio peuvent être modifiées en éditant les fichiers JSON suivants dans le répertoire src :
 
@@ -74,11 +74,11 @@ projects.json : Ce fichier contient les informations sur vos projets. Ajoutez vo
 
 skills.json : Ce fichier contient les informations sur vos compétences. Mettez à jour ce fichier avec vos propres compétences.
 
-##Modification des images
+## Modification des images
 Pour utiliser vos propres images, remplacez celles dans le répertoire assets par les vôtres. Assurez-vous que les nouvelles images ont des noms correspondants ou mettez à jour les références aux images dans le code si les noms diffèrent.
 
-##Contribution
+## Contribution
 Les contributions sont les bienvenues ! Si vous avez des idées d'amélioration ou trouvez des bugs, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.
 
-##License
+## License
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
