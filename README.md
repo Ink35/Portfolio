@@ -1,6 +1,6 @@
 # React Portfolio
 
-Ce projet est un portfolio personnel construit avec React et Vite. Il permet de montrer vos compétences, expériences et projets de manière interactive et moderne.
+Ce projet est un portfolio personnel construit avec React et Vite. Il permet de montrer compétences, expériences et projets de manière interactive et moderne.
 
 ## Informations sur le projet
 
@@ -33,44 +33,39 @@ Ce projet est un portfolio personnel construit avec React et Vite. Il permet de 
     "vite": "^4.4.5"
   }
 }
-Installation
-Clonez ce dépôt sur votre machine locale :
+```
+##Installation
+###Clonez ce dépôt sur votre machine locale :
 
-bash
-Copier le code
+```
 git clone https://github.com/votre_nom_utilisateur/react-portfolio.git
-Accédez au répertoire du projet :
+```
 
-bash
-Copier le code
+###Accédez au répertoire du projet :
+```
 cd react-portfolio
-Installez les dépendances :
+```
+###Installez les dépendances :
 
-bash
-Copier le code
+```
 npm install
-Scripts
-dev : Démarre le serveur de développement.
+```
 
-bash
-Copier le code
+##Scripts
+###dev : Démarre le serveur de développement.
+
+```
 npm run dev
-build : Génère la version de production du site.
+```
 
-bash
-Copier le code
+###build : Génère la version de production du site.
+
+```
 npm run build
-lint : Analyse le code pour trouver des problèmes potentiels.
+```
 
-bash
-Copier le code
-npm run lint
-preview : Prévisualise la version de production du site.
+##Modification des données
 
-bash
-Copier le code
-npm run preview
-Modification des données
 Les données affichées dans le portfolio peuvent être modifiées en éditant les fichiers JSON suivants dans le répertoire src :
 
 history.json : Ce fichier contient les informations sur votre parcours professionnel. Mettez à jour ce fichier avec vos propres expériences.
@@ -79,17 +74,11 @@ projects.json : Ce fichier contient les informations sur vos projets. Ajoutez vo
 
 skills.json : Ce fichier contient les informations sur vos compétences. Mettez à jour ce fichier avec vos propres compétences.
 
-Modification des images
+##Modification des images
 Pour utiliser vos propres images, remplacez celles dans le répertoire assets par les vôtres. Assurez-vous que les nouvelles images ont des noms correspondants ou mettez à jour les références aux images dans le code si les noms diffèrent.
 
-Contribution
+##Contribution
 Les contributions sont les bienvenues ! Si vous avez des idées d'amélioration ou trouvez des bugs, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.
 
-License
+##License
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
-
-rust
-Copier le code
-
-Copiez simplement ce bloc de texte dans votre fichier README.md pour obtenir toutes les informations nécessaires sur votre projet React. Assurez-vous de personnaliser les sections appropriées selon vos besoins spécifiques et d'ajuster les détails comme le nom d'utilisateur GitHub et les détails de licence au besoin.
-```
