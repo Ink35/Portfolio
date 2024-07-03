@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Stage Developpeur Web",
+    "organisation": "Cartel Concerts",
+    "startDate": "Avril, 2024",
+    "endDate": "Juin, 2024",
+    "experiences": [
+      "Création d'une application de suivi pour le booking et la production de concert",
+      "Réalisation d’un cahier des charges",
+      "Maquetter & réaliser les interfaces utilisateurs avec Figma",
+      "Mettre en place une base de donnée relationnelle",
+      "Mise en place d’outils d’administration",
+      "Mise en production et suivi"
+    ],
+    "imageSrc": "history/cartelconcerts.png"
+  },
+  {
+    "role": "Directeur d'Exploitation",
+    "organisation": "1988 Live Club",
+    "startDate": "Mars, 2018",
+    "endDate": "Sept, 2023",
+    "experiences": [
+      "Organisation de la marche de l'établissement",
+      "Gestion du personnel et des prestataires",
+      "Gestion globale (Rapport annuel, négociation achat etc...)"
+    ],
+    "imageSrc": "history/1988.png"
+  }
+]

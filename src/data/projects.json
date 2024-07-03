@@ -1,0 +1,26 @@
+[
+  {
+    "title": "KindR",
+    "imageSrc": "projects/KindR.png",
+    "description": "Projet de fin d'étude : Mise en relation parent et profesionnel de la petite enfance",
+    "skills": ["React", "PHP 8.2", "MySQL"],
+    "demo": "https://projet-kindr.kindr.fr/",
+    "source": "https://github.com/AntoineC35/Projet-KindR"
+  },
+  {
+    "title": "Cartel Booking",
+    "imageSrc": "projects/cartel.png",
+    "description": "Projet de stage : Création d'une application de suivi pour le booking et la production de concert",
+    "skills": ["React", "PHP 8.2", "Api Google"],
+    "demo": "https://projet-cartel.kindr.fr/",
+    "source": "https://github.com/AntoineC35/projet-Cartel"
+  },
+  {
+    "title": "Project Youtube Context",
+    "imageSrc": "projects/project.png",
+    "description": "En cours de réalisation : Projet qui donne du contexte lié au timecode d'une vidéo Youtube",
+    "skills": ["React", "Symfony", "Api Google"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
