@@ -37,7 +37,7 @@ export const Hero = () => {
 
       <img
         src={getImageUrl("hero/avatar.png")}
-        alt="Hero image of me"
+        alt="Avatar d'Antoine Cormier"
         className={styles.heroImg}
       />
 
